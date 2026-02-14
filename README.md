@@ -59,8 +59,6 @@ The model achieved stable convergence across 100 epochs on high-resolution aeria
 ---
 
 ## Tech Stack
-<img width="686" height="361" alt="image" src="https://github.com/user-attachments/assets/31aca277-1ef7-482f-ad97-4f4fad46137b" />
-
 * Python
 * PyTorch
 * Ultralytics YOLOv8
@@ -102,6 +100,12 @@ yolo detect predict model=best.pt source=your_image.jpg
 ```
 
 ---
+-->Sample Results:
+<img width="628" height="299" alt="testimage2" src="https://github.com/user-attachments/assets/aa5d6e5c-5856-4070-8b64-541d11acd3e9" />
+<img width="686" height="361" alt="model predictions" src="https://github.com/user-attachments/assets/943859e7-9f9e-43f1-88e6-e0f5a0fbba7a" />
+<img width="365" height="226" alt="Ground truth Vs predicted" src="https://github.com/user-attachments/assets/f8d7f3e7-ee84-42e9-bce7-b64ec1f43b18" />
+<img width="359" height="224" alt="Ground truth Vs predicted2" src="https://github.com/user-attachments/assets/0b021097-5b78-4fa6-97d7-2b308c9223fd" />
+<img width="412" height="338" alt="testimage1" src="https://github.com/user-attachments/assets/98bac452-28a2-4149-a6b5-7422e08c3052" />
 
 ## Future Improvements
 
