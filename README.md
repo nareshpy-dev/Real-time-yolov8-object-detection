@@ -1,9 +1,3 @@
-Good. Here is a clean, strong, professional README — no emojis, no unnecessary decoration.
-
-You can copy this directly into `README.md`.
-
----
-
 # Real-Time Aerial Object Detection using YOLOv8 (DOTA Dataset)
 
 ## Overview
@@ -65,6 +59,7 @@ The model achieved stable convergence across 100 epochs on high-resolution aeria
 ---
 
 ## Tech Stack
+<img width="686" height="361" alt="image" src="https://github.com/user-attachments/assets/31aca277-1ef7-482f-ad97-4f4fad46137b" />
 
 * Python
 * PyTorch
