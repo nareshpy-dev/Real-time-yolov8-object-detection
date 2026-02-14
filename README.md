@@ -91,7 +91,7 @@ yolo detect predict model=best.pt source=your_image.jpg
 ---
 
 ## Repository Structure
-
+```
 ├── YOLOv8monDOTAv1_5.ipynb
 ├── README.md
 ├── requirements.txt
@@ -100,10 +100,12 @@ yolo detect predict model=best.pt source=your_image.jpg
 
 ---
 -->Sample Results:
-<img width="359" height="224" alt="Ground truth Vs predicted2" src="https://github.com/user-attachments/assets/049853d8-d8b0-46be-bccc-307f83d12538" />
-<img width="412" height="338" alt="testimage1" src="https://github.com/user-attachments/assets/5820ad36-0a90-4c46-b03d-79b2327f80eb" />
-<img width="628" height="299" alt="testimage2" src="https://github.com/user-attachments/assets/46445010-7aa5-4729-be31-5a2e76eb8e80" />
-<img width="686" height="361" alt="model predictions" src="https://github.com/user-attachments/assets/af615c72-5beb-4d7d-9536-0c47dc604fd2" />
+
+<img width="359" height="224" alt="Ground truth Vs predicted2" src="https://github.com/user-attachments/assets/fc7d4254-77cd-45da-92c4-04d5e0ec558b" />
+<img width="412" height="338" alt="testimage1" src="https://github.com/user-attachments/assets/24c05e7e-2063-487b-85d9-42327e901875" />
+<img width="628" height="299" alt="testimage2" src="https://github.com/user-attachments/assets/2c4b0b82-fe55-48bd-985a-a0cda94a051f" />
+<img width="686" height="361" alt="model predictions" src="https://github.com/user-attachments/assets/003fb462-bd92-4676-a341-7d46aade4e05" />
+
 
 ## Future Improvements
 * Hyperparameter tuning to improve recall
